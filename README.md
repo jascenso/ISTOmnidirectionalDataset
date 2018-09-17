@@ -16,4 +16,4 @@ The ISTOmnidirectional Dataset, as well as the aforementioned objective metrics 
 
 To have access to the ISTOmnidireccional Dataset, please send an e-mail to Prof. João Ascenso (joao.ascenso@lx.it.pt) and Prof. Paula Queluz (paula.queluz@lx.it.pt). If you use the ISTOmnidirectional Dataset in your research, we kindly ask that you reference this website and the following publication:
 
-Francisco Lopes, João Ascenso, António Rodrigues, Maria Paula Queluz, "Subjective and Objective Quality Assessment of Omnidirectional Video", Proc. of SPIE Optical Engineering + Applications (OP18O), Applications of Digital Image Processing XLI Conference, San Diego, CA, USA, August 2018. (Available here)
+* Francisco Lopes, João Ascenso, António Rodrigues, Maria Paula Queluz, "Subjective and Objective Quality Assessment of Omnidirectional Video", Proc. of SPIE Optical Engineering + Applications (OP18O), Applications of Digital Image Processing XLI Conference, San Diego, CA, USA, August 2018. * (Available here)
