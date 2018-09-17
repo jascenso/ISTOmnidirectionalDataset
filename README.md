@@ -1,4 +1,4 @@
-# ISTOmnidirectionalDataset
+# ISTOmnidirectional Dataset
 
 The ISTOmnidirectional Dataset  is the result of a subjective assessment campaign, performed in IST - Technical University of Lisbon and IT - Instituto de Telecomunicações, that was conducted to evaluate the impact, on quality, of HEVC compression and/or spatial&temporal subsampling, when the omnidirectional videos are displayed in a head mounted device (HDM). 
 
