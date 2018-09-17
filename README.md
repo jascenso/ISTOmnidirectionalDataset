@@ -10,7 +10,7 @@ The subjective assessment results were used as ground-truth to evaluate conventi
 
 # Source Publication
 
-The ISTOmnidirectional Dataset, as well as the aforementioned objective metrics evaluation, are described in
+The ISTOmnidirectional Dataset, as well as the aforementioned objective metrics evaluation, are described in [a paper_SPIE2018_final_Copyright.pdf] here
 
 # Access to the Dataset
 
